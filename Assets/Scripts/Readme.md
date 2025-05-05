@@ -7,6 +7,7 @@ The simulation is designed to demonstrate scalable systems suitable for large-sc
 ### 🔧 Features
 - 🚘 ECS-driven vehicle spawning and movement
 - 🛣️ Grid-based street layout system
+- 🔄 Pathfinding - Grid based A* - is performed dynamically for cars when needed
 - 📊 Data-oriented logic for high performance
 - 🎮 Modular and extensible gameplay architecture
 - 🧪 Built as a technical showcase for performance simulation and gameplay logic
