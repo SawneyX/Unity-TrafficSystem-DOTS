@@ -1,4 +1,4 @@
-## Unity DOTS CitySim
+## Unity TrafficSim Dots
 
 **Unity DOTS CitySim** is a performance-focused city builder prototype built with Unity's Data-Oriented Tech Stack (DOTS). This project showcases the use of the **Entity Component System (ECS)** for managing dynamic traffic systems, simulating cars navigating a grid of streets efficiently.
 
@@ -18,5 +18,4 @@ The simulation is designed to demonstrate scalable systems suitable for large-sc
 
 ---
 
-This project is intended as a **portfolio piece** and technical demo for employers interested in **high-performance Unity architecture** and **simulation development**.
 
